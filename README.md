@@ -18,7 +18,7 @@ I've decided for no good reason that I'll do each challenge with a different pro
 - 14-Haskell
 - 15-Perl
 - 16-Scala
-- 17-CommonLisp
+- 17-Kotlin
 - 18-TypeScript
 - 19-R
 - 20-Bash
